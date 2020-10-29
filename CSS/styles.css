@@ -1,0 +1,22 @@
+a img{
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+    border: 1px solid;
+}
+
+div img{
+    width: 500px;
+    height: 400px;
+}
+
+.card>img{
+    width: 480px;
+    height: 400px;
+
+}
+
+#down{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
