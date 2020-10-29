@@ -1,1 +1,1 @@
-Bootstrap example is made H.O.
+Bootstrap example is made by H.O.
